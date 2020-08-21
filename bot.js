@@ -1,3 +1,6 @@
+
+
+
 // Import and setup files and modules
 const eventHandlers = {
 	ready: require("./Events/ready.js"),
